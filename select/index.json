@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スピーチレス～心の声",
+  "base_artist": "ナオミ・スコット",
+  "createdAt": "2025-12-23T07:13:53.822780Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スピーチレス~心の声 (『アラジン』より)",
+      "artist": "ナオミ・スコット",
+      "has_synced": false,
+      "path": "select/pl_01_スピーチレス~心の声_(『アラジン』より)_ナオミ・スコット.txt"
+    }
+  ]
+}
